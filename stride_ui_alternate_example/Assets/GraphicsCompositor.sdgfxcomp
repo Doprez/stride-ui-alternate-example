@@ -213,8 +213,8 @@ Game: !Stride.Rendering.Compositing.SceneCameraRenderer,Stride.Engine
         Children:
             d39c5ddbf8b7d5ca02bafb6496b1cc3c: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 5d6f555e-0c00-4044-93cf-33c4f7114f63
             01d338078e9b21121ead0868932613dd: !Stride.Rendering.Compositing.DebugRenderer,Stride.Rendering ref!! aac5bc8d-261d-432f-a52e-51f71ffc0ec6
-            f63fedfa6fd0ef78b49b4fa1abb2d0ad*: !stride_ui_alternate_example.MyraRenderer,stride_ui_alternate_example
-                Id: 5b0ad506-d415-4420-96c2-c42d0fb4e237
+            c2a72ab452e30bdbe0393235a5930e29*: !stride_ui_alternate_example.MyraRenderer,stride_ui_alternate_example
+                Id: dc94860c-321d-4d12-9043-5411aeef5a91
     RenderMask: All
 SingleView: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 48a778f4-4e98-4115-8060-af330af2c971
 Editor: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 5d6f555e-0c00-4044-93cf-33c4f7114f63

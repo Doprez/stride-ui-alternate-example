@@ -51,8 +51,8 @@ Hierarchy:
                         Id: 7563ccca-d77f-4589-8b37-50d56109662d
                         Model: eeae7fe3-01a7-454f-a8ee-4b307f272fca:Sphere
                         Materials: {}
-                    475d6a67c83762da5de44992d35901a7: !stride_ui_alternate_example.RandomizeHealthbar,stride_ui_alternate_example
-                        Id: 8c071bc2-ff86-488c-b06f-02926026d7b2
+                    6c107ff5f5084d503b800c0d7093fec0: !stride_ui_alternate_example.HealthRandomizer,stride_ui_alternate_example
+                        Id: f586ed14-b4d6-4e63-a800-41855de3a22d
         -   Entity:
                 Id: bc5d0549-c4aa-4914-9acd-1a8e4a5f9bec
                 Name: Ground
