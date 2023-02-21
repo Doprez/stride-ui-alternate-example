@@ -1,0 +1,11 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stride_ui_alternate_example.Windows", "stride_ui_alternate_example.Windows\stride_ui_alternate_example.Windows.csproj", "{2649DEEA-02C0-43D2-9383-9B6253F4E1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stride_ui_alternate_example", "stride_ui_alternate_example\stride_ui_alternate_example.csproj", "{16A88808-890A-48F5-8F51-8A1E8C86C253}"
+EndProject
+Global
+EndGlobal
