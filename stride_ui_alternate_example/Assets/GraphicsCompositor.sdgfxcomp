@@ -217,5 +217,5 @@ Game: !Stride.Rendering.Compositing.SceneCameraRenderer,Stride.Engine
                 Id: dc94860c-321d-4d12-9043-5411aeef5a91
     RenderMask: All
 SingleView: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 48a778f4-4e98-4115-8060-af330af2c971
-Editor: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 5d6f555e-0c00-4044-93cf-33c4f7114f63
+Editor*: !Stride.Rendering.Compositing.ForwardRenderer,Stride.Engine ref!! 5d6f555e-0c00-4044-93cf-33c4f7114f63
 BlockPositions: {}
